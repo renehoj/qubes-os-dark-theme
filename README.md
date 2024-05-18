@@ -1,6 +1,8 @@
 # qubes-os-dark-theme
 Nord theme designed to be used with Qubes OS
 
+The theme has only been tested with XFCE dom0 and GNOME appvms.
+
 dom0 theme matches appvm theme, making it look like a single uniform theme.
 
 dom0 theme has thin colored border which matches the trust domain color.
