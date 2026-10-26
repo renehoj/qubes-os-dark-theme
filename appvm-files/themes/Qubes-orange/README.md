@@ -1,4 +1,4 @@
-> **Nordic-orange** is [Nordic](https://github.com/EliverLara/Nordic) with its accent
+> **Qubes-orange** (internally named Nordic-orange) is [Nordic](https://github.com/EliverLara/Nordic) with its accent
 > changed to `#d08770` (`$nord12`), another colour from the
 > [Nord](https://github.com/arcticicestudio/nord) palette.  Everything else --
 > backgrounds, text, borders, the warning/error/success colours -- is untouched.
@@ -10,8 +10,8 @@ Copy this folder to `~/.themes/` (create it if necessary) or `/usr/share/themes/
 To set the theme on Gnome, run the following commands in Terminal:
 
 ```
-gsettings set org.gnome.desktop.interface gtk-theme "Nordic-orange"
-gsettings set org.gnome.desktop.wm.preferences theme "Nordic-orange"
+gsettings set org.gnome.desktop.interface gtk-theme "Qubes-orange"
+gsettings set org.gnome.desktop.wm.preferences theme "Qubes-orange"
 ```
 or change it via your distribution's tweak tool.
 

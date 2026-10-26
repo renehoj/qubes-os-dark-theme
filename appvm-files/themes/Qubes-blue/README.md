@@ -1,4 +1,4 @@
-> **Nordic-blue** is [Nordic](https://github.com/EliverLara/Nordic) with its accent
+> **Qubes-blue** (internally named Nordic-blue) is [Nordic](https://github.com/EliverLara/Nordic) with its accent
 > changed to `#81a1c1` (`$nord9`), another colour from the
 > [Nord](https://github.com/arcticicestudio/nord) palette.  Everything else --
 > backgrounds, text, borders, the warning/error/success colours -- is untouched.
@@ -10,8 +10,8 @@ Copy this folder to `~/.themes/` (create it if necessary) or `/usr/share/themes/
 To set the theme on Gnome, run the following commands in Terminal:
 
 ```
-gsettings set org.gnome.desktop.interface gtk-theme "Nordic-blue"
-gsettings set org.gnome.desktop.wm.preferences theme "Nordic-blue"
+gsettings set org.gnome.desktop.interface gtk-theme "Qubes-blue"
+gsettings set org.gnome.desktop.wm.preferences theme "Qubes-blue"
 ```
 or change it via your distribution's tweak tool.
 

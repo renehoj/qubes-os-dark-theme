@@ -1,4 +1,4 @@
-> **Nordic-green** is [Nordic](https://github.com/EliverLara/Nordic) with its accent
+> **Qubes-green** (internally named Nordic-green) is [Nordic](https://github.com/EliverLara/Nordic) with its accent
 > changed to `#a3be8c` (`$nord14`), another colour from the
 > [Nord](https://github.com/arcticicestudio/nord) palette.  Everything else --
 > backgrounds, text, borders, the warning/error/success colours -- is untouched.
@@ -10,8 +10,8 @@ Copy this folder to `~/.themes/` (create it if necessary) or `/usr/share/themes/
 To set the theme on Gnome, run the following commands in Terminal:
 
 ```
-gsettings set org.gnome.desktop.interface gtk-theme "Nordic-green"
-gsettings set org.gnome.desktop.wm.preferences theme "Nordic-green"
+gsettings set org.gnome.desktop.interface gtk-theme "Qubes-green"
+gsettings set org.gnome.desktop.wm.preferences theme "Qubes-green"
 ```
 or change it via your distribution's tweak tool.
 
