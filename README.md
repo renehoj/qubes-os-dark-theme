@@ -11,5 +11,4 @@ appvm theme has accent colors that match the trust domain color, this needs to b
 
 Icons have been modified to remove the white background, but it has only done to the commonly used icons.
 
-
 <img width="2549" height="1440" alt="dark-theme" src="https://github.com/user-attachments/assets/dc33d62c-45f8-47ff-88a2-4d4175f31ada" />
